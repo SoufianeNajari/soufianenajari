@@ -1,36 +1,33 @@
-<h1 align="center">Hello, I'm Soufiane 👋</h1>
+<h1 align="center">👋 Hey, I'm Soufiane Najari</h1>
 
 <div align="center">
   <img width="40%" src="https://github.com/SoufianeNajari/soufianenajari/blob/main/gifintro.gif" alt="computer">
 </div>
 
-<br>
+---
 
-- 🔭 Currentyly studying machine learning and statistical learning
-- 🔍 Exploring different faces of computer science
-- 📍  French
+### 🎯 About Me
 
-<br>
+* 🎓 **Final-year engineering student** at Centrale Lille (France), specializing in **Data Science, Machine Learning, and Applied Mathematics**.  
+* 🔭 **Currently:** Expanding my skills in **quantitative modeling** and **statistical learning**, with a focus on connecting theory to practical applications in finance and technology.  
+* 💡 **Interests:** Quantitative finance, algorithmic modeling, and high-performance computing.  
+* 🌍 **Location:** France 🇫🇷  
+
+---
+
+### 🧠 Technical Focus
+
+* 🧮 **Data Science & Machine Learning:** Regression, classification, time-series modeling, and reinforcement learning.  
+* ⚙️ **Software Development:** Building tools and prototypes in Python, R, and C++.  
+* 📊 **Databases & Automation:** SQL, VBA, and data pipelines for financial analysis.  
+* 🧰 **Systems & Tools:** Linux, Git, and collaborative development workflows.  
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,Rstudio,nodejs,postgres" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,figma" />
-  <img src="https://skillicons.dev/icons?i=linux,C" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgresql,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,html,css,js,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=git,figma" />
 </p>
-
-
-
-<!--
-**mmarclin/mmarclin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
