@@ -1,7 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Soufiane 👋</h1>
+
+<div align="center">
+  <img width="40%" src="https://github.com/SoufianeNajari/soufianenajari/blob/main/giphy.gif" alt="computer">
+</div>
+
+<br>
+
+- 🔭 Currentyly studying machine learning and statistical learning
+- 🔍 Exploring different faces of computer science
+- 📍  French
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,Rstudio,nodejs,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,figma" />
+  <img src="https://skillicons.dev/icons?i=linux,C" />
+</p>
+
+
 
 <!--
-**SoufianeNajari/soufianenajari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mmarclin/mmarclin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
