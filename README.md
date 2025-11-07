@@ -2,6 +2,7 @@
 
 <div align="center">
   <img width="40%" src="https://github.com/SoufianeNajari/soufianenajari/blob/main/giphy.gif" alt="computer">
+  <img width="40%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZlbnduMXZpMnY4bWIxa3hreXltcmhxbG82NHhpN21qdW5vcXFudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.gif" alt="computer">
 </div>
 
 <br>
