@@ -9,8 +9,8 @@
 ### 🎯 About Me
 
 * 🎓 **Final-year engineering student** at Centrale Lille (France), specializing in **Data Science, Machine Learning, and Applied Mathematics**.  
-* 🔭 **Currently:** Expanding my skills in **quantitative modeling** and **statistical learning**, with a focus on connecting theory to practical applications in finance and technology.  
-* 💡 **Interests:** Quantitative finance, algorithmic modeling, and high-performance computing.  
+* 🔭 **Currently: 
+* 💡 **Interests:
 * 🌍 **Location:** France 🇫🇷  
 
 ---
