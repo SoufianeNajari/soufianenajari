@@ -1,33 +1,42 @@
 <h1 align="center">👋 Hey, I'm Soufiane Najari</h1>
-
 <div align="center">
   <img width="40%" src="https://github.com/SoufianeNajari/soufianenajari/blob/main/gifintro.gif" alt="computer">
 </div>
 
 ---
 
-### 🎯 About Me
+### About Me
 
-* 🎓 **Final-year engineering student** at Centrale Lille (France), specializing in **Data Science, Machine Learning, and Applied Mathematics**.  
-* 🔭 **Currently: 
-* 💡 **Interests:
-* 🌍 **Location:** France 🇫🇷  
+Final-year engineering student at Centrale Lille, specializing in Data Science and Applied Mathematics. Building toward ML Systems Engineering, with a focus on GPU performance and low-level inference optimization.
 
 ---
 
-### 🧠 Technical Focus
+### Background
 
-* 🧮 **Data Science & Machine Learning:** Regression, classification, time-series modeling, and reinforcement learning.  
-* ⚙️ **Software Development:** Building tools and prototypes in Python, R, and C++.  
-* 📊 **Databases & Automation:** SQL, VBA, and data pipelines for financial analysis.  
-* 🧰 **Systems & Tools:** Linux, Git, and collaborative development workflows.  
+Optimized CUDA kernels for plane sweeping stereo reconstruction during a research exchange at ULB (Brussels), where I first got hooked on GPU programming.
 
 ---
 
-### 🛠️ Tech Stack
+### Currently Building
+
+A ROCm/HIP kernel lab on AMD hardware: vector add, reduce, matmul (naive → tiled → optimized), and one ML-like op (softmax or layernorm), benchmarked against rocBLAS and profiled with Omniperf and rocprofv2.
+
+Alongside it, a C++ performance lab covering arena allocators, cache locality (AoS vs SoA), and CPU profiling with perf and flamegraphs.
+
+---
+
+### Stack
+
+C++20 · Python · HIP · CUDA · CMake · Omniperf · rocprofv2 · Google Benchmark · Linux
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,postgresql,linux" />
-  <img src="https://skillicons.dev/icons?i=nodejs,html,css,js,c,cpp" />
-  <img src="https://skillicons.dev/icons?i=git,figma" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,cmake" />
 </p>
+
+---
+
+### Current Focus
+
+GPU kernel optimization and C++ systems programming for ML inference.
+
+📬 [najarisoufiane@gmail.com](mailto:najarisoufiane@gmail.com)
