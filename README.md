@@ -1,42 +1,42 @@
 <h1 align="center">👋 Hey, I'm Soufiane Najari</h1>
+
 <div align="center">
   <img width="40%" src="https://github.com/SoufianeNajari/soufianenajari/blob/main/gifintro.gif" alt="computer">
 </div>
 
 ---
 
-### About Me
-
-Final-year engineering student at Centrale Lille, specializing in Data Science and Applied Mathematics. Building toward ML Systems Engineering, with a focus on GPU performance and low-level inference optimization.
-
----
-
-### Background
-
-Optimized CUDA kernels for plane sweeping stereo reconstruction during a research exchange at ULB (Brussels), where I first got hooked on GPU programming.
+### 🎯 About Me
+* 🎓 **Final-year engineering student** at Centrale Lille (France), specializing in **Data Science, Machine Learning, and Applied Mathematics**.  
+* 🔭 **Currently:** ML Research Intern at **EDF R&D (LNHE)**, working on ML-based estimation of radionuclide soil-water distribution coefficients (Kd) for environmental safety modeling.
+* 💡 **Interests:** Reinforcement Learning, Deep Learning, Generative Models, Bayesian ML, and applied ML for industrial and scientific problems.
+* 🎯 **Next step:** Pursuing a PhD in Machine Learning.
+* 🌍 **Location:** Paris, France 🇫🇷
 
 ---
 
-### Currently Building
+### 🧠 Technical Focus
 
-A ROCm/HIP kernel lab on AMD hardware: vector add, reduce, matmul (naive → tiled → optimized), and one ML-like op (softmax or layernorm), benchmarked against rocBLAS and profiled with Omniperf and rocprofv2.
-
-Alongside it, a C++ performance lab covering arena allocators, cache locality (AoS vs SoA), and CPU profiling with perf and flamegraphs.
+* 🧮 **Data Science & Machine Learning:** Regression, classification, time-series modeling, and reinforcement learning.  
+* ⚙️ **Software Development:** Building tools and prototypes in Python, R, and C++.  
+* 📊 **Databases & Automation:** SQL, VBA, and data pipelines for financial analysis.  
+* 🧰 **Systems & Tools:** Linux, Git, and collaborative development workflows.  
 
 ---
 
-### Stack
+### 🚀 Featured Projects
+* 🏆 **Motion-to-Text Retrieval (Kaggle)** : 3rd prize, mapping 3D human motion to natural language (score 0.600).
+* 🎮 **Deep RL Agents** : DQN agents on Snake and Hide & Seek reaching 90% win-rate.
+* 🏢 **MARL for HVAC Thermal Control** : Multi-agent PPO/IPPO on a custom PettingZoo environment with physics-based RC thermal model. Emergent cooperative behaviors (anticipatory pre-cooling, zone coordination).
 
-C++20 · Python · HIP · CUDA · CMake · Omniperf · rocprofv2 · Google Benchmark · Linux
+---
+
+### 🛠️ Tech Stack
+
+
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,cmake" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgresql,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+  <img src="https://skillicons.dev/icons?i=git,figma" />
 </p>
-
----
-
-### Current Focus
-
-GPU kernel optimization and C++ systems programming for ML inference.
-
-📬 [najarisoufiane@gmail.com](mailto:najarisoufiane@gmail.com)
